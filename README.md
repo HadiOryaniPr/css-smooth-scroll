@@ -1,3 +1,3 @@
 # css-smooth-scroll
 
-smoooth scroll with css
+smooth scroll with css
