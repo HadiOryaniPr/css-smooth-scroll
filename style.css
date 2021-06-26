@@ -80,7 +80,7 @@ section p {
 /* section images */
 
 section#home {
-    background: url(./images/1.png) no-repeat center center/cover;
+    background: url(./images/1.jpg) no-repeat center center/cover;
 }
 
 section#shop {
@@ -96,6 +96,6 @@ section#about {
 }
 
 section#contact {
-    background: url(./images/5.jpg) no-repeat center center/cover;
+    background: url(./images/6.jpg) no-repeat center center/cover;
 }
 
