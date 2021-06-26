@@ -25,6 +25,11 @@ body {
     scroll-snap-type: y mandatory;
 }
 
+.hamberger-menu i {
+    color: aqua;
+    font-size: ;
+}
+
 .navbar {
     position: fixed;
     top: 0;
